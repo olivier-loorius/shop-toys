@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Boutique Sextoys",
+    "description": "Bienvenue dans votre boutique premium",
+    "cta": "Découvrir nos thèmes"
+  },
+  "themes": {
+    "title": "Sélectionnez votre thème",
+    "description": "Choisissez parmi nos 4 thèmes premium pour personnaliser votre expérience",
+    "current": "Thème actuel",
+    "colors": "Couleurs"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "back": "Retour à l'accueil",
+    "chooseTheme": "Choisir un thème",
+    "discoverThemes": "Découvrir nos thèmes",
+    "luxury": "Luxury",
+    "elegant": "Elegant",
+    "modern": "Modern",
+    "sensual": "Sensual"
+  }
+}
